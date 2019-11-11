@@ -5,4 +5,7 @@ red改变了这个仓库
 red再次改变了这个仓库
 =======
 red改变了这个文件
-red对readme做出了改变,提交到了master
+
+
+blue改变了readme文件,在提交之前拉取master上的更改
+
